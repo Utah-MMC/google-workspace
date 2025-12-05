@@ -22,7 +22,7 @@ from googleapiclient.errors import HttpError
 # ---------- CONFIG ---------- #
 
 SERVICE_ACCOUNT_FILE = r"C:\Users\DCALL\Desktop\utahmmc\google-cloud-console\workspace-automation-sa.json"  # path to your SA JSON key
-USER_EMAIL = "jwest@utahmmc.com"                  # user whose aliases we manage
+USER_EMAIL = "EMAIL ADDRESS----------"                  # user whose aliases we manage
 ADMIN_SUBJECT = "dcall@utahmmc.com"               # super admin for Directory API
 
 SCOPES = [
